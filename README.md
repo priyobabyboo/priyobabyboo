@@ -43,7 +43,6 @@
 </div>
 <br>
 
-<hr>
 <!-- - 👋 Hi, I’m @souravcodes1080
 - 👀 I’m interested in software development and GUI
 - 🌱 I’m currently learning C, JAVA, PYTHON 
